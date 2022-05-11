@@ -1,3 +1,4 @@
+//the banner with the headphones!
 export default {
   name: 'banner',
   title: 'Banner',

@@ -1,3 +1,4 @@
+//products while working on sanity studio 
 export default {
   name: 'product',
   title: 'Product',
